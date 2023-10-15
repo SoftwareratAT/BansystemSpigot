@@ -1,0 +1,4 @@
+name: BansystemSpigot
+version: '${project.version}'
+main: de.softwarerat.bansystemspigot.BansystemSpigot
+api-version: '1.20'
